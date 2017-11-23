@@ -1,0 +1,13 @@
+.center-box{
+    writing-mode: vertical-lr;
+    text-align: center;
+}
+.center-wrap{
+    writing-mode: horizontal-tb;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+.center-content{
+    display: inline-block;
+}
