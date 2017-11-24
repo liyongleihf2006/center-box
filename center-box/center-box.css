@@ -1,8 +1,10 @@
 .center-box{
+    writing-mode: tb-lr;
     writing-mode: vertical-lr;
     text-align: center;
 }
 .center-wrap{
+    writing-mode: lr-tb;
     writing-mode: horizontal-tb;
     text-align: center;
     width: 100%;
