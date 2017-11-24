@@ -12,4 +12,6 @@
 }
 .center-content{
     display: inline-block;
+    text-align: left;
+    text-align: initial;
 }
